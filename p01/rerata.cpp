@@ -16,7 +16,7 @@ int main() {
 
     // TODO 3
     std::cout << "Jumlah : " << jumlah << "\n";
-    std::cout << "Rata-rata : " << std::fixed << std::setprecision(2) << rerata << "\n";
+    std::cout << std::fixed << std::setprecision(2);
+    std::cout << "Rata-rata : " << rerata << "\n";
 
     return 0;
-}

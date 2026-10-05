@@ -1,6 +1,5 @@
 // SiNilai v0.1: data satu mahasiswa.
 // Program membaca nama, NPM, dan empat komponen nilai, lalu menampilkannya sebagai kartu.
-// Lengkapi bagian TODO. Versi ini belum menghitung apa-apa; itu tugas Pertemuan 3.
 
 #include <iostream>
 #include <string>
@@ -10,12 +9,11 @@ using namespace std;
 int main() {
     // TODO 1: deklarasikan variabel untuk nama dan NPM.
     // Nama bisa lebih dari satu kata. NPM adalah deretan angka yang tidak pernah
-    // dihitung, dan bisa diawali 0, jadi pikirkan tipe yang tepat.
+    // dihitung, dan bisa diawali 0.
     string nama;
     string npm;
 
     // TODO 2: deklarasikan empat variabel nilai: kehadiran, mingguan, uts, uas.
-    // Nilai bisa berisi pecahan seperti 85.5.
     double kehadiran;
     double mingguan;
     double uts;
@@ -31,7 +29,7 @@ int main() {
     // TODO 4: baca NPM.
     cin >> npm;
 
-    // TODO 5: baca keempat komponen nilai, satu per satu, dengan prompt seperti di atas.
+    // TODO 5: baca keempat komponen nilai.
     cout << "Kehadiran : ";
     cin >> kehadiran;
 
