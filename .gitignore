@@ -1,2 +1,8 @@
-.vscode/
+# File hasil kompilasi C++
 *.exe
+*.out
+*.o
+
+# File sementara
+*.tmp
+*~
