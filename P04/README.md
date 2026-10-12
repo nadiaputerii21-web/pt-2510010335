@@ -1,11 +1,5 @@
 # P04 — Percabangan
 
-## Deskripsi
-
-Pertemuan 4 membahas penggunaan percabangan dalam bahasa C++, mulai dari `if` satu cabang, `if-else`, `if-else` bertingkat, operator logika, hingga `switch`. Praktikum ini bertujuan untuk memahami cara program mengambil keputusan berdasarkan kondisi tertentu.
-
-## Daftar Program dan Pembahasan
-
 ### 1. `if_dasar.cpp` — if Satu Cabang
 
 Percabangan `if` digunakan untuk menjalankan perintah ketika suatu kondisi bernilai benar. Pada program ini, operator `< 60` digunakan untuk menampilkan peringatan apabila nilai akhir berada di bawah 60.
