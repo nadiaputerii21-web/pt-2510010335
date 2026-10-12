@@ -6,19 +6,19 @@ Pertemuan 4 membahas penggunaan percabangan dalam bahasa C++, mulai dari `if` sa
 
 ## Daftar Program dan Pembahasan
 
-### 1. `if_dasar.cpp` — If Satu Cabang
+### 1. `if_dasar.cpp` — if Satu Cabang
 
 Percabangan `if` digunakan untuk menjalankan perintah ketika suatu kondisi bernilai benar. Pada program ini, operator `< 60` digunakan untuk menampilkan peringatan apabila nilai akhir berada di bawah 60.
 
 Kurung kurawal `{ }` berfungsi untuk mengelompokkan beberapa pernyataan agar semuanya mengikuti kondisi `if`.
 
-### 2. `if_else.cpp` — If-Else
+### 2. `if_else.cpp` — if else
 
 Percabangan `if-else` digunakan untuk memilih satu dari dua kondisi, yaitu lulus atau belum lulus. Program menggunakan operator `>= 60` untuk menentukan kelulusan sesuai aturan bahwa nilai minimal 60 dinyatakan lulus.
 
 Operator `=` digunakan untuk memberikan nilai, sedangkan `==` digunakan untuk membandingkan kesamaan dua nilai.
 
-### 3. `bertingkat.cpp` — If-Else Bertingkat
+### 3. `bertingkat.cpp` — If Else Bertingkat
 
 Percabangan `if-else` bertingkat digunakan untuk menentukan huruf mutu berdasarkan rentang nilai. Urutan kondisi harus dimulai dari nilai tertinggi menuju terendah agar hasil konversi sesuai.
 
